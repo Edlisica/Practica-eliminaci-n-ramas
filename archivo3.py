@@ -1,1 +1,2 @@
-Print('3er Archivo como nuestra tercera estrealla')
+Print('En este archivo vamos a contarte algo importante')
+console.log('Ganamos la tercer estrella')
